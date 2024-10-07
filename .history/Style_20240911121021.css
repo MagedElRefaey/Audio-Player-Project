@@ -1,0 +1,13 @@
+#Container{
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    width: 300px;
+}
+.Buttons{
+
+}

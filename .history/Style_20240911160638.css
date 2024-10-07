@@ -1,0 +1,15 @@
+#Container{
+    width: 100px;
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: yellow;
+}
+
+img{
+    width: 300px;
+}
+.Buttons{
+
+}

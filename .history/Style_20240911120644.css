@@ -1,0 +1,10 @@
+#Container{
+    display: flex;
+    justify-content: center;
+    border: 3px solid black ;
+    align-items: center;
+}
+
+img{
+    width: 300px;
+}

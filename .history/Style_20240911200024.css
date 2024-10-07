@@ -1,0 +1,44 @@
+
+body {
+    display: flex;
+    align-items: center; /* Center container vertically */
+    justify-content: center; /* Center container horizontally */
+}
+#Container{
+    
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: yellow;
+    width: 400px; 
+    height: 550px; 
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+    -webkit-box-reflect: above 0px
+        linear-gradient(transparent,rgba(228, 5, 5, 1))
+}
+.Buttons{
+    
+    width: 300px;
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 140px;
+    -webkit-box-reflect: below 0px
+    linear-gradient(transparent,rgba(228, 5, 5, 0.5));
+    padding: 0 20px;
+    
+}
+input[type="range"]{
+    padding-top: 10px;
+    width: 300px;
+}

@@ -1,0 +1,24 @@
+
+body {
+    display: flex;
+    align-items: center; /* Center container vertically */
+    justify-content: center; /* Center container horizontally */
+}
+#Container{
+    
+    padding-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: yellow;
+    width: 30%; 
+    height: 30%; 
+    box-sizing: border-box;
+}
+
+img{
+    width: 300px;
+}
+.Buttons{
+
+}

@@ -1,0 +1,23 @@
+html, body {
+    height: 100%; /* Ensure the body and html cover the full viewport height */
+    margin: 0; /* Remove default margin */
+}
+
+#Container{
+    
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: yellow;
+    width: 50%; 
+    height: 100vh; 
+    box-sizing: border-box;
+}
+
+img{
+    width: 300px;
+}
+.Buttons{
+
+}
